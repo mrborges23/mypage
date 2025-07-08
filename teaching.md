@@ -30,3 +30,10 @@
 ### Introduction to Machine Learning
 * [Lecture slides](/assets/lectures/ml_intro_course_rui_borges.pdf) 
 * [Tutorial](https://github.com/diogo-s-ribeiro/Wien_Talks/blob/master/23_CodeIC/ML_21Sep.ipynb): Classifing sweeps in E&R experiments using deep learning and decision trees
+
+
+### Gambler's ruin activity
+* [Jupyter notebooks](https://jupyter.org/try-jupyter/lab/index.html)
+* [R script](/assets/lectures/gambers_ruin.R): The script includes a function to simulate a gambler's ruin process
+
+
