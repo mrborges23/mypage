@@ -21,6 +21,5 @@ Jan 2011 - Jan 2012 <br/>
 ## Services
 
 *	Reviewer: Systematic Biology, Molecular Biology and Evolution, Molecular Ecology Resources, Methods in Ecology and Evolution, Scientific Reports, Genome Biology and Evolution, Plos Computational Biology, Frontiers in Ecology and Evolution, BMC Ecology and Evolution and Journal of Avian Biology 
-*	Review editor for Frontiers in Molecular Biosciences 
-*	Associated editor for Scientific Reports
+*	Recomender for PCI Mathematical and Computational Biology
 *	Grant reviews: Czech Science Foundation
