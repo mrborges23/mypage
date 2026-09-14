@@ -11,8 +11,6 @@ MY orcid: [0000-0002-5905-3778](https://orcid.org/0000-0002-5905-3778)
 
 * **Borges, R.** (2025). The rarity of mutations and the inflation of bacterial effective population sizes. *Methods in Ecology and Evolution*, 16(4), 722–732.
 
-* **Borges, R.** (2025). *mrborges23/mutation_models: Bayesian estimators for the effective population size*. Zenodo.
-
 * Braichenko, S., **Borges, R.**, and Kosiol, C. (2024). Polymorphism-aware models in RevBayes: Species trees, disentangling balancing selection, and GC-biased gene conversion. *Molecular Biology and Evolution*, 41(7), msae138.
 
 * Kotari, I., Kosiol, C., and **Borges, R.** (2024). The patterns of codon usage between chordates and arthropods are different but co-evolving with mutational biases. *Molecular Biology and Evolution*, 41(5), msae080.
