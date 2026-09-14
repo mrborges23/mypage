@@ -1,8 +1,11 @@
 ## Positions
 
+* **Lecturer in Statistics**, School of Mathematics and Statistics, University of St Andrews <br/>
+Aug 2024 - Present
+
 * **Group Leader** and **Associate Faculty** of the Vienna Graduate School of Population Genetics <br/>
 Institute of Population Genetics, Vetmeduni Vienna, Austria <br/>
-Jun 2021 - present <br/>
+Jun 2021 - Jul 2024
 
 * **Postdoctoral researcher**, Institute of Population Genetics, Vetmeduni Vienna, Austria <br/>
 Jul 2017 - Present <br/>
